@@ -5,7 +5,7 @@
 
 - 🪴 The last project I worked on was: [The Property Investment Calculator](http://kcxgu.github.io/property-investment-calculator/)
 
-- 👨‍💻 All of my projects are available at: [http://kcxgu.github.io/](http://kcxgu.github.io/)
+- 👩‍💻 All of my projects are available at: [http://kcxgu.github.io/](http://kcxgu.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

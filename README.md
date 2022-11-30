@@ -7,6 +7,12 @@
 
 - 👩‍💻 All of my projects are available at: [http://kcxgu.github.io/](http://kcxgu.github.io/)
 
+- 🌈 In my spare time, you can generally find me: 
+  - Managing my not-for-profit initiative: [British Asian Queer Community for East and Southeast Asians](https://baqc-esea.tilda.ws/)
+  - Walking the Welsh coast 
+  - Catching up with friends 
+  - Reading
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kayceegu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayceegu" height="30" width="40" /></a>

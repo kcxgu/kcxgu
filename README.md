@@ -1,9 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Kaycee</h1>
 <h3 align="center">Corporate lawyer turned software engineer</h3>
 
-- 🌱 I’m currently working on: [The Dad Jokes Game App](http://kcxgu.github.io/dad-jokes/)
+- 🌱 I’m currently working on: [The Shared Calendar App (github repo)] (https://github.com/kcxgu/shared-calendar)
 
-- 🪴 The last project I worked on was: [The Property Investment Calculator](http://kcxgu.github.io/property-investment-calculator/)
+- 🪴 Recent projects I have worked on and deployed are: 
+- [The Dad Jokes Game App](http://kcxgu.github.io/dad-jokes/)
+- [The Property Investment Calculator](http://kcxgu.github.io/property-investment-calculator/)
 
 - 👩‍💻 All of my projects are available at: [http://kcxgu.github.io/](http://kcxgu.github.io/)
 

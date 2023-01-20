@@ -1,15 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Kaycee</h1>
 <h3 align="center">Corporate lawyer turned software engineer</h3>
 
-- 🌱 I’m currently working on: [The Shared Calendar App (github repo)] (https://github.com/kcxgu/shared-calendar)
+🌱 I’m currently working on: [The Shared Calendar App] (https://github.com/kcxgu/shared-calendar)
 
-- 🪴 Recent projects I have worked on and deployed are: 
+🪴 Recent projects I have worked on and deployed are: 
 - [The Dad Jokes Game App](http://kcxgu.github.io/dad-jokes/)
 - [The Property Investment Calculator](http://kcxgu.github.io/property-investment-calculator/)
 
-- 👩‍💻 All of my projects are available at: [http://kcxgu.github.io/](http://kcxgu.github.io/)
+👩‍💻 All of my projects are available at: [http://kcxgu.github.io/](http://kcxgu.github.io/)
 
-- 🌈 In my spare time, you can generally find me: 
+🌈 In my spare time, you can generally find me: 
   - Managing my not-for-profit initiative: [British Asian Queer Community for East and Southeast Asians](https://baqc-esea.tilda.ws/)
   - Walking the Welsh coast 
   - Catching up with friends 

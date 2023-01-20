@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kaycee</h1>
 <h3 align="center">Corporate lawyer turned software engineer</h3>
 
-🌱 I’m currently working on: [The Shared Calendar App] (https://github.com/kcxgu/shared-calendar)
+🌱 I am currently working on: The Shared Calendar App
 
 🪴 Recent projects I have worked on and deployed are: 
 - [The Dad Jokes Game App](http://kcxgu.github.io/dad-jokes/)

@@ -4,7 +4,7 @@
 🌱 I am currently working on: **The Shared Calendar App**
 
 🪴 Recent projects I have worked on and deployed are: 
-- [Check4Bias] (https://check4bias.com)
+- [Check4Bias](https://check4bias.com/)
 - [The Dad Jokes Game App](http://kcxgu.github.io/dad-jokes/)
 - [The Property Investment Calculator](http://kcxgu.github.io/property-investment-calculator/)
 

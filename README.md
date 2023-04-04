@@ -4,8 +4,8 @@
 🌱 I am currently working on: **The Shared Calendar App**
 
 🪴 Recent projects I have worked on and deployed are: 
-- [CoursePilot](http://coursepilot.co/)
-- [Check4Bias](https://check4bias.com/)
+- [CoursePilot](http://coursepilot.co/): A course review platform, allowing recent graduates to share their experience.
+- [Check4Bias](https://check4bias.com/): Compare news based on a topic, complete with sentiment analysis.
 - [The Dad Jokes Game App](http://kcxgu.github.io/dad-jokes/)
 - [The Property Investment Calculator](http://kcxgu.github.io/property-investment-calculator/)
 

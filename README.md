@@ -4,6 +4,7 @@
 🌱 I am currently working on: **The Shared Calendar App**
 
 🪴 Recent projects I have worked on and deployed are: 
+- [Hey Queer Asians: An events platform designed and coded for and on behalf of BAQC ESEA, a not-for-profit organisation](https://www.heyqueerasians.com)
 - [CoursePilot: A course review platform, allowing recent graduates to share their experience](http://coursepilot.co/)
 - [Check4Bias: Compare news based on a topic, complete with sentiment analysis](https://check4bias.com/)
 - [The Dad Jokes Game App](http://kcxgu.github.io/dad-jokes/)

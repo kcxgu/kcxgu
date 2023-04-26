@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kaycee</h1>
 <h3 align="center">Corporate lawyer turned software engineer</h3>
 
-🌱 I am currently working on: **The Shared Calendar App**
+🌱 I am currently working on: the **Hey Queer Asians** events platform
 
 🪴 Recent projects I have worked on and deployed are: 
 - [Hey Queer Asians: An events platform designed and coded for and on behalf of BAQC ESEA, a not-for-profit organisation](https://www.heyqueerasians.com)

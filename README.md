@@ -4,7 +4,7 @@
 🌱 I am currently working on: the **Hey Queer Asians** events platform
 
 🪴 Recent projects I have worked on and deployed are: 
-- [Narrated Guide](http://narratedguide.com)
+- [Narrated Guide: An on-demand audio travel guide, customised to your preferred travel style](http://narratedguide.com)
 - [Hey Queer Asians: An events platform designed and coded for and on behalf of BAQC ESEA, a not-for-profit organisation](https://www.heyqueerasians.com)
 - [CoursePilot: A course review platform, allowing recent graduates to share their experience](http://coursepilot.co/)
 - [Interpre-X: A real-time speech translation](http://interpre-x.com)
